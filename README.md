@@ -1,5 +1,5 @@
 # MINIPROYECTO 2 ACTIVIDAD 2
-Codigo utilizado, junto con las funciones más importantes y su explicación.
+Este es el codigo utilizado, junto con las funciones más importantes y su explicación.
 partiendo por las funciones base tenemos a 
 
 toggle_led():
